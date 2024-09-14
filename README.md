@@ -41,12 +41,9 @@ Open the command prompt or terminal and enter
 
 For plotting graph, need to import matplotlib in the python file. Here is two way to import matplotlib given below.
 
-<code> 	
-from matplotlib import pyplot as plt # importing pyplot module from matplotlib library
+<code>from matplotlib import pyplot as plt # importing pyplot module from matplotlib library</code>
 # or
-import matplotlib.pyplot as plt #  importing pyplot module from 
-
-</code>
+<code>import matplotlib.pyplot as plt #  importing pyplot module from </code>
 
 
 In the above code, we import the pyplot module from matplotlib for plot the graphs, like histogram, bar chart, pie plot, etc.
