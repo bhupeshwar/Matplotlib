@@ -1,4 +1,4 @@
-# Python Matplotlib Tutorial
+# Python Matplotlib Tutorial By Bhupeshwar Pathania
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 # What is python matplotlib?
